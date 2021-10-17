@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "chest_empty_open_anim_f0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "chest_empty_open_anim_f1.png": {
+      "frame": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "chest_empty_open_anim_f2.png": {
+      "frame": {
+        "x": 0,
+        "y": 32,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "coin_anim_f0.png": {
+      "frame": {
+        "x": 0,
+        "y": 48,
+        "w": 8,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 8,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 8,
+        "h": 8
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "coin_anim_f1.png": {
+      "frame": {
+        "x": 0,
+        "y": 56,
+        "w": 8,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 8,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 8,
+        "h": 8
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "coin_anim_f2.png": {
+      "frame": {
+        "x": 0,
+        "y": 64,
+        "w": 8,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 8,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 8,
+        "h": 8
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "coin_anim_f3.png": {
+      "frame": {
+        "x": 0,
+        "y": 72,
+        "w": 8,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 8,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 8,
+        "h": 8
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABQCAYAAAAQq/UNAAAAAXNSR0IArs4c6QAAAgBJREFUWEftlz1Lw0AYxy/UFyqViuIgqEgnBe2kbi1+AlddxMFFqS6in0Jx0YCLg7joJPgFlHazTnXQqYgKDqIoFovVEvk/5c4kxvSayxBLbkrC8/zyz/N2F40pLk3RnwlAIpEwACsWi65Qu53GH1wf9bPF2Vd2Zry5iprSOtnuYZwNz9yTHQEulmN0s3/yyeanW10BZpvxnVINcJCOsIlMHylYSL27AvZyHaQgrz+wuWz1BzCSjJKCyaEvV8D5TQupvCqUrQDfFeBNl3dtpGZsoCKUOSpABrAQA3yf7DUyIdKITCAG27cfBEC6NjMGi6W6LOldGWynGCADIo0w5vnHNZa9HuzPuQ8pANX8vQDwe54SxMH8HPdQSwDQuIFsb+AFUCkAso5mOwHw4sx9AtTOqIM1XZNqZ9SHpQ7gjILR1x+l2jmz0ctKuReCiHZW7kY74J81E0YaxpN9/dVYsOM+IohOALcK/QXwUs5iqHKpjUJEM2EeeFnNNg+Ud+fgtXPYjfUL2/92DudBeD7gdfe8lTTiS6csEu2RPngIQzhji8eKjB5LQwhgduZqZCEBAdg/Q1Y+nZXNna+UhfojxNnCoqBafqJfP091wJ1FGiWLSSgIAbXQKWXBlzqo5NMGTuHdq4XG5wEUhIAgxMBLLfg3kZT2BV+GahMo4HFodHf+Bqj9RgECjCStAAAAAElFTkSuQmCC",
+    "format": "RGBA8888",
+    "size": {
+      "w": 16,
+      "h": 80
+    },
+    "scale": 1
+  }
+}
